@@ -8,6 +8,8 @@ In order to run the Lab 7 CNN python files, the follwing python packages must be
 
 In addition, this program also requires the use of NVIDIA CUDA and NVIDIA CUDNN unless the code is being run on GoogleColab
 
+The steps used to set up the Visual Studio Code environment with tensorflow, Cuda, and Cudnn were followed from this video by Derek Banas: https://youtu.be/EmZZsy7Ym-4
+
 This program constructs and trains a CNN, convolutional neural network using the keras tensorflow libraries.  This neural network is able to identify the classification of an image among the following catergories with a 91% accuracy:
 Airplanes
 Automobiles
