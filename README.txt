@@ -2,6 +2,8 @@ Name: Geoffrey Fierro
 Partner: Jason Sammons
 Class: EE104
 
+GitHub Link: https://github.com/geoffreyfierro/EE104_Lab7_CNN
+
 In order to run the Lab 7 CNN python files, the follwing python packages must be installed: tensorflow, keras, and matplotlib.
 
 In addition, this program also requires the use of NVIDIA CUDA and NVIDIA CUDNN unless the code is being run on GoogleColab
